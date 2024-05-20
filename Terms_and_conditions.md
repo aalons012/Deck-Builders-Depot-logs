@@ -19,7 +19,7 @@ Shipping is not included in your order and will be processed separately.
 <p class="p3">
   <span class="s1">
     <i>
-      <a herf="https://maps.app.goo.gl/yS6vp4MdYdm3W6MX6">
+      <a href="https://maps.app.goo.gl/yS6vp4MdYdm3W6MX6">
         777 Nw 71st Street, Miami, Florida 33150
       </a>
     </i>
